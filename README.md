@@ -1,22 +1,22 @@
-# andy-reddit
+# Reddit
 
 Fullstack replica of reddit
 
 Stack: 
 
-*React
-*Typescript
-*GraphQL
-*URQL/Apollo
-*Node.js
-*PostgresSQL
-*TypeORM
-*Redis
-*Next.js
-*Chakra UI 
-*TypeGraphQL 
-*Docker
-*Nodemailer
+* React
+* Typescript
+* GraphQL
+* URQL/Apollo
+* Node.js
+* PostgresSQL
+* TypeORM
+* Redis
+* Next.js
+* Chakra UI 
+* TypeGraphQL 
+* Docker
+* Nodemailer
 
 Deployed using Dokku/Digital Ocean/Vercel
 
